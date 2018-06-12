@@ -1,0 +1,51 @@
+body{
+
+	background-color: #A7DBD8;
+	
+}
+
+.veterinarios{
+	 margin-top: 50px;
+	background-color: white;
+	
+	height: 500px;
+	margin: 15px;
+/*	display: inline-block; */
+flex-wrap: wrap;
+ display: flex;
+ justify-content: center;
+  background-color: #E0E4CC;
+
+}
+#logo{
+	width: 150px; 
+}
+
+.container{
+
+
+ width: 100%;
+ flex-wrap: wrap;
+ display: flex;
+ justify-content: center;
+
+
+}
+.header{
+	 
+}
+
+.foto {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+  
+    width: 100%;
+    
+    /* los siguientes valores son independientes del tamaño del círculo */
+   /* background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;*/
+
+
+
+}
