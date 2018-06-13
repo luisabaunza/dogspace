@@ -4,13 +4,13 @@ body{
 }
 
 .veterinarios{
-	 margin-top: 50px;
+	margin-top: 50px;
 	margin: 15px;
-/*	display: inline-block; */
-flex-wrap: wrap;
- display: flex;
- justify-content: space-between;
- /* background-color: #F38630;*/
+	/*	display: inline-block; */
+	flex-wrap: wrap;
+ 	display: flex;
+ 	justify-content: space-between;
+ 	/* background-color: #F38630;*/
 
 }
 #logo{
@@ -41,20 +41,22 @@ width: 50%;
 }
 
 .ranking{
-	margin-top: 20px;
+	margin-top: 10px;
 	width: 40%;
+	margin-right: 10px;
+	
 	
 }
 .h3mv{
 	color: #69D2E7;
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 20px;
 	margin-top: 10px;
 	height: 30px;
 }
 
 h3{
-	font-size: 20px;
+	font-size: 15px;
 	margin-top: 10px;
 	height: 30px;
 }
@@ -90,7 +92,7 @@ h3{
 }
 
 a{
-	font-size: 13px;
+	font-size: 11px;
 
 
 }
@@ -104,4 +106,15 @@ border: 5px solid #69D2E7;
 margin-top: 8px;
 margin-bottom: 4px;
 
+}
+
+.mvfooter{
+
+
+}
+
+.huesos{
+	width: 30%;
+	margin-top: 10px;
+	margin-right: 10px;
 }
