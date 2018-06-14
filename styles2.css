@@ -1,0 +1,38 @@
+body{
+
+	background-image: url("./img/background-naranja.png");
+}
+#logo{
+	width: 150px; 
+}
+
+.agendar{
+
+	margin-top: 20px;
+	display: flex;
+ 	justify-content: center;
+ }
+
+ .perro{
+ 	display: flex;
+ 	justify-content: center;
+ }
+
+ #titulo1{
+ 	margin-top: 10px;
+ 	color: white;
+
+ }
+
+ .input1::placeholder{
+ 	/*color: #FA6900;*/
+ 	color: #F38630;
+ 	text-align: center;
+ 	font-family: verdana;
+ 	
+ }
+
+ .input1{
+ 	color: #F38630;
+ 	text-align: center;
+ }

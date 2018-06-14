@@ -42,7 +42,7 @@ for (var i=0; i<veterinariosObj.length; i++){
     } 
   contenido += "</div>"            
   contenido += "<div class='mvf2'>"             
-  contenido += "<a href='www.mtexperts.mx'><img class='cita' src='./img/cita.png'></a>"         
+  contenido += "<a href='citas.html'><img class='cita' src='./img/cita.png'></a>"         
     if (veterinariosObj[i].zona=="poniente") {
         contenido += "<img id='zona' src='./img/poniente.png'>"
     }else if (veterinariosObj[i].zona=="norte") {
@@ -107,7 +107,7 @@ for (var i=0; i<filtered.length; i++){
     } 
   contenido += "</div>"            
   contenido += "<div class='mvf2'>"             
-  contenido += "<a href='www.mtexperts.mx'><img class='cita' src='./img/cita.png'></a>"         
+  contenido += "<a href='citas.html'><img class='cita' src='./img/cita.png'></a>"         
     if (filtered[i].zona=="poniente") {
         contenido += "<img id='zona' src='./img/poniente.png'>"
     }else if (filtered[i].zona=="norte") {
