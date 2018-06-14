@@ -24,7 +24,7 @@ veterinariosObj = [{
 	"rank":"2",
 	"mail":"daniel.ortega@gmail.com",
 	"tel":"5520101211",
-	"zona":"poniente",
+	"zona":"oriente",
 	"foto":"2.png"	
 	},
 	{
@@ -35,6 +35,7 @@ veterinariosObj = [{
 	"banos":"622",
 	"desparacitaciones":"890",
 	"rank":"3",
+	"zona":"norte",
 	"foto":"3.png"
 	},
 	{
@@ -45,6 +46,7 @@ veterinariosObj = [{
 	"banos":"622",
 	"desparacitaciones":"890",
 	"rank":"4",
+	"zona":"sur",
 	"foto":"4.png"	
 	},
 	{
@@ -55,6 +57,7 @@ veterinariosObj = [{
 	"banos":"622",
 	"desparacitaciones":"890",
 	"rank":"5",
+	"zona":"centro",
 	"foto":"5.png"	
 	},
 	{
@@ -101,6 +104,21 @@ veterinariosObj = [{
 	"banos":"12",
 	"desparacitaciones":"415",
 	"foto":"10.jpg"	
+	},
+	{
+	"name":"ramos.lopez",
+	"consultas":"23",
+	"cirugias":"12",
+	"inyecciones":"987",
+	"banos":"5",
+	"desparacitaciones":"23",
+	"rank":"5",
+	"mail":"ramon@gmail.com",
+	"tel":"5520111101",
+	"zona":"centro",
+	"foto":"1.png"
+
+
 	},
 ];
 
