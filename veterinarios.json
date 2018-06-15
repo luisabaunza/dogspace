@@ -67,7 +67,8 @@ veterinariosObj = [{
 	"inyecciones":"2731",
 	"banos":"622",
 	"desparacitaciones":"890",
-	"foto":"6.png"	
+	"foto":"6.png",
+	"zona":"centro",	
 	},
 		{
 	"name":"mariana.mondongo",
@@ -76,7 +77,8 @@ veterinariosObj = [{
 	"inyecciones":"2731",
 	"banos":"622",
 	"desparacitaciones":"890",
-	"foto":"7.jpg"	
+	"foto":"7.jpg",
+	"zona":"centro",	
 	},
 			{
 	"name":"triton.el.cabron",
@@ -85,7 +87,8 @@ veterinariosObj = [{
 	"inyecciones":"0",
 	"banos":"0",
 	"desparacitaciones":"es un huevon!!",
-	"foto":"8.jpg"
+	"foto":"8.jpg",
+	"zona":"centro",
 	},
 			{
 	"name":"el.hobbit",
@@ -94,7 +97,8 @@ veterinariosObj = [{
 	"inyecciones":"909999",
 	"banos":"20",
 	"desparacitaciones":"15",
-	"foto":"9.jpg"	
+	"foto":"9.jpg",
+	"zona":"centro",	
 	},
 			{
 	"name":"el.porquiLoco",
@@ -103,7 +107,8 @@ veterinariosObj = [{
 	"inyecciones":"7878",
 	"banos":"12",
 	"desparacitaciones":"415",
-	"foto":"10.jpg"	
+	"foto":"10.jpg",
+	"zona":"centro",	
 	},
 	{
 	"name":"ramos.lopez",

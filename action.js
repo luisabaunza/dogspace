@@ -69,8 +69,11 @@ function buscar() {
             
             
     
-var filtered = veterinariosObj.filter(veterinario => (veterinario.name.includes(search)))
-// console.log(filtered)
+var filtered = veterinariosObj.filter(veterinario => (veterinario.name.includes(search))||(veterinario.zona.includes(search)))
+
+// var filtered = pokemones.filter(pokemon => (pokemon.name.toLowerCase().includes(search))|| (pokemon.id.includes(search)) || (pokemon.type.includes(search)) )
+
+// console.log(filtered)\\
 for (var i=0; i<filtered.length; i++){
     
   contenido += "<div class='col-lg-5 veterinarios'>";
