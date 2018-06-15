@@ -36,3 +36,12 @@ body{
  	color: #F38630;
  	text-align: center;
  }
+
+ a{
+	font-size: 11px;
+
+}
+
+a:hover {
+font-size: 14px;
+}
